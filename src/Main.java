@@ -18,8 +18,8 @@ public class Main {
                 "Малыхин А.Ю.", 4);
         lecturers.add(lecturer);
 
-        AdminEmployee adminEmployee = new AdminEmployee("Новичихин Вячеслав Борисович 030", 100000.99,
-                "slavikus_2003@mail.ru", 5, 2);
+        AdminEmployee adminEmployee = new AdminEmployee("Капустин Максим Иванович 031", 100000.99,
+                "makson@mail.ru", 5, 2);
         adminEmployees.add(adminEmployee);
 
         Project project = new Project("Классный проект",
